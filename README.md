@@ -1,4 +1,4 @@
-# Vana Network Analytics - Data Acquisition & Analysis
+# Vana Network Analytics
 
 This repository is a fork of [vana-com/year-in-review](https://github.com/vana-com/year-in-review.git) containing production-ready Python scripts for acquiring and analyzing data from the Vana blockchain network. The scripts focus on extracting Proof of Contribution (PoC) data, analyzing network activity, and generating comprehensive analytics reports.
 
