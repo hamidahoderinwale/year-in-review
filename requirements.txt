@@ -1,0 +1,23 @@
+# Core Data Processing
+pandas>=2.1.0
+numpy>=1.26.0
+
+# API and HTTP Requests
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Data Storage
+pyarrow>=14.0.0  # For Parquet file support
+
+# Visualization (for chart generation scripts)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Optional: For advanced blockchain interactions (if needed)
+# web3>=6.0.0
+
+# Development/Notebook Support (optional)
+# jupyterlab>=4.0.0
+# ipython>=8.17.0
+# plotly>=5.18.0
+# tqdm>=4.66.0
